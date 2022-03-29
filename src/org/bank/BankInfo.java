@@ -3,6 +3,7 @@ package org.bank;
 public class BankInfo extends AxixBank{
 	public void savings() {
 		System.out.println("Savings Account");
+		System.out.println("current account");
 	}
 	public void fixed() {
 		System.out.println("Fixed Account");
